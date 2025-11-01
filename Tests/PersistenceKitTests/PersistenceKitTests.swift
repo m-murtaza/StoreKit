@@ -1,7 +1,7 @@
 import XCTest
-@testable import StoreKit
+@testable import PersistenceKit
 
-final class StoreKitTests: XCTestCase {
+final class PersistenceKitTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest

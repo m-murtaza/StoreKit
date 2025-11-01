@@ -1,6 +1,6 @@
 //
 //  DefaultStore.swift
-//  StoreKit
+//  PersistenceKit
 //
 //  Created by Mashud Murtaza on 04/08/2025.
 //
